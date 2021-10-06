@@ -1,0 +1,50 @@
+---
+title: "Homework 03: Probabilities with Bob Ross"
+subtitle: "due Wed, Oct 13 at 11:59p "
+author: "[INSERT NAME]"
+date: "[INSERT DATE]"
+output: 
+  pdf_document:
+    fig_height: 3
+    fig_width: 6
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(warning = FALSE, 
+                      message = FALSE)
+```
+
+## Load packages & data
+
+```{r load-packages}
+# add packages
+``` 
+
+
+## Exercise 1
+
+
+## Exercise 2
+
+
+## Exercise 3
+
+
+## Exercise 4
+
+
+## Exercise 5
+
+
+## Exercise 6
+
+|             | **Cabin** | **No Cabin** | **Total** |
+|-------------|-----------|--------------|-----------|
+| **Lake**    |           |              |           |
+| **No Lake** |           |              |           |
+| **Total**   |           |              |           |
+
+
+## Exercise 7
+
+
